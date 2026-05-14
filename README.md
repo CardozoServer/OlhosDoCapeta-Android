@@ -67,7 +67,11 @@ pkg install curl android-tools -y
 adb pair localhost:xxxxx xxxxxx
 
 # 4. Conectar ADB (substitua xxxxx pela porta)
-adb connect localhost:xxxxx
+adb connect localhost:xxxxx```
+
+
+### Finalização
+```sh
 
 # 5. Execução 
-curl -L -o https://github.com/CardozoServer/OlhosDoCapeta-Android/raw/refs/heads/main/CardozoSS && chmod +x CardozoSS %% ./CardozoSS´´´´
+curl -L -o https://github.com/CardozoServer/OlhosDoCapeta-Android/raw/refs/heads/main/CardozoSS && chmod +x CardozoSS %% ./CardozoSS```
