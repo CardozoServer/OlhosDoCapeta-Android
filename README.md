@@ -42,11 +42,8 @@ Com um sistema leve, rápido e eficiente, o scanner realiza verificações diret
 | 🎮 Verificação do Free Fire | Detecta instalações do jogo no dispositivo |
 | 📂 Scanner de Replays | Analisa arquivos `.bin` presentes no sistema |
 | 🟣 Shaders | Verificação de alterações gráficas suspeitas |
-| 📦 OBB | Inspeção de arquivos OBB modificados |
 | 🔐 Root | Detecta possíveis sinais de root |
 | 🕒 Data & Hora | Verifica alterações incomuns no sistema |
-| 🔌 MTP | Detecta conexões e transferências USB |
-| 📜 Logs | Coleta informações importantes automaticamente |
 | ⚡ Automação | Processos rápidos e totalmente automatizados |
 
 ---
