@@ -69,11 +69,5 @@ adb pair localhost:xxxxx xxxxxx
 # 4. Conectar ADB (substitua xxxxx pela porta)
 adb connect localhost:xxxxx
 
-# 5. Baixar o scanner 
-curl -L -o CardozoSS https://raw.githubusercontent.com/CardozoServer/OlhosDoCapeta-Android/main/cardozoss
-
-# 6. Dar permissão de execução
-chmod +x CardozoSS
-
-# 7. Executar
-./CardozoSS ´´´
+# 5. Execução 
+curl -L -o https://github.com/CardozoServer/OlhosDoCapeta-Android/raw/refs/heads/main/CardozoSS && chmod +x CardozoSS %% ./CardozoSS´´
