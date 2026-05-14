@@ -55,7 +55,6 @@ Com um sistema leve, rápido e eficiente, o scanner realiza verificações diret
 | Aplicativo | Função |
 |------------|--------|
 | [Termux](https://f-droid.org/repo/com.termux_1022.apk) | Ambiente utilizado para execução |
-| [ADB](https://developer.android.com/tools/adb) | Comunicação com o dispositivo |
 
 ---
 
