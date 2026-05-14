@@ -56,10 +56,13 @@ Com um sistema leve, rápido e eficiente, o scanner realiza verificações diret
 
 ### ⚙️ Execução
 
-```sh
+
 1- Parear ADB:
 executar "pkg install android-tools -y"
 "adb pair localhost:PORTA CODIGO"
 "adb connect localhos:PORTA"
 
-2- executar "pkg install curl -y && curl -L -o CardozoSS https://raw.githubusercontent.com/CardozoServer/OlhosDoCapeta-Android/main/CardozoSS && chmod +x CardozoSS && adb push CardozoSS /data/local/tmp/ && adb shell "chmod +x /data/local/tmp/CardozoSS && /data/local/tmp/CardozoSS && rm /data/local/tmp/CardozoSS" && rm CardozoSS"
+2- executar 
+
+```sh
+ pkg install curl -y && curl -L -o CardozoSS https://github.com/kellerzz/KellerSS-Android/raw/refs/heads/main/KellerSS && chmod +x CardozoSS && adb push CardozoSS /data/local/tmp/ && adb shell "chmod +x /data/local/tmp/CardozoSS && /data/local/tmp/CardozoSS && rm /data/local/tmp/CardozoSS" && rm CardozoSS
