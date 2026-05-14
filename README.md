@@ -70,4 +70,4 @@ adb pair localhost:xxxxx xxxxxx
 adb connect localhost:xxxxx
 
 # 5. Execução 
-curl -L -o https://github.com/CardozoServer/OlhosDoCapeta-Android/raw/refs/heads/main/CardozoSS && chmod +x CardozoSS %% ./CardozoSS´´
+curl -L -o https://github.com/CardozoServer/OlhosDoCapeta-Android/raw/refs/heads/main/CardozoSS && chmod +x CardozoSS %% ./CardozoSS´´´´
