@@ -1,13 +1,7 @@
 <div id="top">
 
-<div id="top">
-
 <p align="center">
   <img alt="CardozoSS" src="https://media.discordapp.net/attachments/1498868970252664914/1504583614933897227/cardozoSS.png?ex=6a07842f&is=6a0632af&hm=d68cfd8eb9c41446a42fe2d2e741fb9f0d582fc24d712223dc41b053455f9725&=&format=webp&quality=lossless&width=828&height=552" width="75%">
-</p>
-
-<p align="center">
-  <em>Tecnologia, automação e análise avançada para dispositivos Android.</em>
 </p>
 
 </div>
