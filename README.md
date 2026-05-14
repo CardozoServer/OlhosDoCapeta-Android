@@ -3,9 +3,9 @@
 <p align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/SEU_BANNER.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/SEU_BANNER.png">
-  <img alt="CardozoSS Logo" src="https://i.imgur.com/SEU_BANNER.png" width="75%">
+  <source media="(prefers-color-scheme: dark)" srcset="[https://i.imgur.com/SEU_BANNER.png](https://ptb.discord.com/channels/@me/1498868970252664914/1504583171302227998)">
+  <source media="(prefers-color-scheme: light)" srcset="[https://i.imgur.com/SEU_BANNER.png](https://ptb.discord.com/channels/@me/1498868970252664914/1504583171302227998)">
+  <img alt="CardozoSS Logo" src="[https://i.imgur.com/SEU_BANNER.png](https://ptb.discord.com/channels/@me/1498868970252664914/1504583171302227998)" width="75%">
 </picture>
 
 </p>
