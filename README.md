@@ -62,10 +62,23 @@ Com um sistema leve, rápido e eficiente, o scanner realiza verificações diret
 ### ⚙️ Execução
 
 ```sh
+# 1. Atualizar o Termux
 pkg update -y && pkg upgrade -y
+
+# 2. Instalar dependências
 pkg install curl android-tools -y
 
-curl -L -o CardozoSS [Scan](https://github.com/CardozoServer/OlhosDoCapeta-Android/raw/refs/heads/main/cardozoss)
+# 3. Parear ADB (substitua xxxxx pela porta e código)
+adb pair localhost:xxxxx xxxxxx
+
+# 4. Conectar ADB (substitua xxxxx pela porta)
+adb connect localhost:xxxxx
+
+# 5. Baixar o scanner (URL corrigida)
+curl -L -o CardozoSS https://raw.githubusercontent.com/CardozoServer/OlhosDoCapeta-Android/main/cardozoss
+
+# 6. Dar permissão de execução
 chmod +x CardozoSS
 
-./CardozoSS
+# 7. Executar
+./CardozoSS ´´´
