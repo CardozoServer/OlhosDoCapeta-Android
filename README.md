@@ -65,7 +65,7 @@ Com um sistema leve, rápido e eficiente, o scanner realiza verificações diret
 pkg update -y && pkg upgrade -y
 pkg install curl android-tools -y
 
-curl -L -o CardozoSS LINK_AQUI
+curl -L -o CardozoSS [Scan](https://github.com/CardozoServer/OlhosDoCapeta-Android/raw/refs/heads/main/cardozoss)
 chmod +x CardozoSS
 
 ./CardozoSS
