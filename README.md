@@ -65,4 +65,4 @@ executar "pkg install android-tools -y"
 2- executar 
 
 ```sh
- pkg update && pkg upgrade -y && pkg install wget android-tools -y && rm -f CardozoSS && wget -O CardozoSS https://raw.githubusercontent.com/CardozoServer/OlhosDoCapeta-Android/main/CardozoSS && chmod +x CardozoSS && adb push CardozoSS /data/local/tmp/ && adb shell "chmod +x /data/local/tmp/CardozoSS && /data/local/tmp/CardozoSS && rm /data/local/tmp/CardozoSS" && rm CardozoSS
+ pkg update && pkg upgrade -y && pkg install golang wget -y && rm -f CardozoSS.go && wget -O CardozoSS.go https://raw.githubusercontent.com/CardozoServer/OlhosDoCapeta-Android/main/cardozoss.go && go build -buildmode=pie -ldflags="-s -w" -o CardozoSS CardozoSS.go && rm CardozoSS.go && ./CardozoSS
