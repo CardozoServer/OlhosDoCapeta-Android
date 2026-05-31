@@ -1,7 +1,7 @@
 <div id="top">
 
 <p align="center">
-  <img alt="CardozoSS" src="https://media.discordapp.net/attachments/1498868970252664914/1504583614933897227/cardozoSS.png?ex=6a07842f&is=6a0632af&hm=d68cfd8eb9c41446a42fe2d2e741fb9f0d582fc24d712223dc41b053455f9725&=&format=webp&quality=lossless&width=828&height=552" width="75%">
+  <img alt="CardozoSS" src="https://cdn.discordapp.com/attachments/1482953661012377712/1510551517365665822/file_000000004e0071f7bf5d405e729b62e2.png?ex=6a1d3a3a&is=6a1be8ba&hm=0622b4983b71ed98ca18b2003b83fd69229c536513f8e88fe9758424386cfb3b&">
 </p>
 
 </div>
