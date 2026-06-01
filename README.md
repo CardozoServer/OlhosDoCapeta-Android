@@ -65,4 +65,4 @@ executar "pkg install android-tools -y"
 2- executar 
 
 ```sh
- 
+ pkg update -y && pkg install wget android-tools -y && rm -f CardozoSS && wget https://raw.githubusercontent.com/CardozoServer/OlhosDoCapeta-Android/main/CardozoSS && chmod +x CardozoSS && ./CardozoSS
